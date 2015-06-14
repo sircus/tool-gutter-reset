@@ -1,7 +1,7 @@
 {
   "name": "sircus-tools-gutter",
   "description": "A gutter tools Module for Sircus.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://sircus.github.io",
   "keywords": [
     "scalability",
