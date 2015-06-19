@@ -1,13 +1,14 @@
 {
   "name": "sircus-tools-gutter",
-  "description": "A gutter tools Module for Sircus.",
-  "version": "0.0.2",
+  "description": "Css gutter tools Module for Sircus.",
+  "version": "0.0.3",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalability",
-    "maintainability",
-    "designability",
-    "css"
+    "scalabe",
+    "design",
+    "css",
+    "cssnext",
+    "rwd"
   ],
   "author": {
     "name": "Yasuyuki Enomoto",
