@@ -38,6 +38,8 @@ input.scss
 ```html
 <div class="t-gutter"></div>
 <div class="t-gutterReset"></div>
+<div class="t-gutter2x"></div>
+<div class="t-gutter2xReset"></div>
 ```
 
 
