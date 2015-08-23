@@ -1,7 +1,7 @@
 {
   "name": "sircus-tools-gutter",
   "description": "Css gutter tools Module for Sircus.",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "homepage": "http://sircus.github.io",
   "keywords": [
     "scalabe",
@@ -23,7 +23,7 @@
     "build": "css2scss ./index.css ./_converted.scss"
   },
   "dependencies": {
-    "sircus-global-property": ">=0.0.1"
+    "sircus-global-property": "^0.3.0"
   },
   "devDependencies": {
     "sircus-process-css2scss": "^0.2.0"
