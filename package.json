@@ -1,6 +1,6 @@
 {
   "name": "sircus-tools-gutter",
-  "description": "CSS Tools Module For Vertical Gutter.",
+  "description": "CSS Tools Module For Horizontal Gutter.",
   "version": "0.1.1",
   "homepage": "http://sircus.github.io",
   "keywords": [
