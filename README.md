@@ -3,15 +3,15 @@
 [![npm version](https://img.shields.io/npm/v/sircus-tools-gutter.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-gutter)
 
 ## Dependencies
-- [sircus-global-property](https://github.com/sircus/global-property)
+- [sircus-variables](https://github.com/sircus/variables)
 
 
-## Installation
+## Install
 
 > npm:
 
 ```bash
-$ npm install sircus-tools-gutter sircus-global-property
+$ npm install sircus-tools-gutter sircus-variables
 ```
 
 ## Usage
@@ -21,14 +21,14 @@ $ npm install sircus-tools-gutter sircus-global-property
 input.css
 ```css
 @import "sircus-tools-gutter";
-@import "sircus-global-property";
+@import "sircus-variables";
 ```
 
 > sass:
 
 input.scss
 ```scss
-@import "node_modules/sircus-global-property/converted";
+@import "node_modules/sircus-variables/converted";
 @import "node_modules/sircus-tools-gutter/converted";
 ```
 
